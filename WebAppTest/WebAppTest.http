@@ -1,0 +1,10 @@
+@WebAppTest_HostAddress = https://localhost:7181
+
+GET {{WebAppTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{WebAppTest_HostAddress}}/weatherforecast
+
+###
