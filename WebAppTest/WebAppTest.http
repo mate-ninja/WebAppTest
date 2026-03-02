@@ -5,6 +5,3 @@ Accept: application/json
 
 ###
 
-GET {{WebAppTest_HostAddress}}/weatherforecast
-
-###
